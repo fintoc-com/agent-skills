@@ -7,7 +7,7 @@ Agent skills for building with [Fintoc](https://fintoc.com), the financial infra
 ## Installation
 
 ```bash
-npx skills add fintoc-com/fintoc-skills
+npx skills add fintoc-com/agent-skills
 ```
 
 This installs the skills into your agent (Claude Code, Cursor, and other Agent Skills-compatible tools).
