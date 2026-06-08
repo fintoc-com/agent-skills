@@ -1,5 +1,7 @@
 # Fintoc Agent Skills
 
+<img width="853" height="317" alt="image" src="https://github.com/user-attachments/assets/d5644446-1ab4-4c84-98c2-eb634ebf04a6" />
+
 Agent skills for building with [Fintoc](https://fintoc.com), the financial infrastructure API for Latin America (Chile and Mexico). Built on the open [Agent Skills](https://agentskills.io) format.
 
 ## Installation
